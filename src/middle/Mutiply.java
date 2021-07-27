@@ -1,6 +1,5 @@
 package middle;
 
-import sun.nio.cs.ext.MacArabic;
 
 public class Mutiply {
     public int multiply(int A, int B) {

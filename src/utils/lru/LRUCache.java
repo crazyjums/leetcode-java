@@ -1,7 +1,5 @@
 package utils.lru;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-
 import java.util.LinkedHashMap;
 
 public class LRUCache {

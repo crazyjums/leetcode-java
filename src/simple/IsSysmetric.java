@@ -1,6 +1,5 @@
 package simple;
 
-import com.sun.xml.internal.bind.v2.model.core.EnumLeafInfo;
 import utils.tree.TreeNode;
 
 import java.util.LinkedList;

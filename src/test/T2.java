@@ -1,8 +1,5 @@
 package test;
 
-import sun.security.krb5.internal.PAData;
-import utils.A;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
